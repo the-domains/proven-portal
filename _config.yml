@@ -1,0 +1,28 @@
+name: Proven Portal
+favicon: null
+layout_spectrum: 0.7185846099164337
+typography_spectrum: 0.3011978520080447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.711770567111671
+  lightness: 0.14224988780915737
+  saturation: 0.8268607195932418
+  rhythmicContrast: 0.2982516582123935
+purpose: []
